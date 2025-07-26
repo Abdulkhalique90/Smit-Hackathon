@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+h4{
+  color: brown;
+  /* background-color: khaki; */
+  width: 999px ;
+  height: 466px;
+  /* background-image: url(./assets/File-Format-Png-Image.png); */
+  background-image: url(./assets/saylani\ welfare.jpg);
 }
